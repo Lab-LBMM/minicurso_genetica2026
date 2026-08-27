@@ -1,0 +1,31 @@
+Species_1	Species_2	EcologicalAssociation	Reference
+Trachymyrmex septentrionalis	Leucocoprinus gongylophorus	Mutualism	Not available
+Pseudonocardia sp.	Pseudonocardia sp.	Competition	10.1021/acs.jnatprod.9b00897
+Mycetomoellerius turrifex	Leucocoprinus gongylophorus	Mutualism	Not available
+Mycetomoellerius urichii	Leucocoprinus sp.	Mutualism	10.1007/s00248-026-02776-5
+Acromyrmex sp.	Pseudonocardia sp.	Mutualism	10.1038/s41467-018-04520-1
+Escovopsis weberi	Pseudonocardia echinatior	Antagonism	10.1038/s41467-018-04520-1
+Escovopsis weberi	Pseudonocardia octospinosus	Antagonism	10.1038/s41467-018-04520-1
+Escovopsis weberi	Acromyrmex echinatior	Antagonism	10.1038/s41467-018-04520-1
+Apterostigma sp.	Myrmecopterula nudihortorum	Mutualism	10.3897/imafungus.17.182573
+Apterostigma sp.	Myrmecopterula velohortorum	Mutualism	10.3897/imafungus.17.182573
+Streptomyces sp.	Escovopsis weberi	Antagonism	10.1073/pnas.0812082106
+Pseudonocardia sp.	Pseudonocardia sp.	Competition	10.1021/jacs.5b09794
+Burkholderia sp.	Escovopsis weberi	Antagonism	10.1128/aem.00178-21
+Klebsiella sp.	Atta cephalotes	Mutualism	10.1126/science.1173036
+Pantoea sp.	Atta cephalotes	Mutualism	10.1126/science.1173036
+Apocephalus attophilus	Atta laevigata	Endoparasitism	10.1371/journal.pone.0250973
+Myrmosicarius grandicornis	Atta laevigata	Endoparasitism	10.1371/journal.pone.0250973
+Eibesfeldtphora erthali	Atta laevigata	Endoparasitism	10.1371/journal.pone.0250973
+Apocephalus vicosae	Atta laevigata	Endoparasitism	10.1371/journal.pone.0250973
+Leucocoprinus gongylophorus	Atta cephalotes	Mutualism	10.1371/journal.pone.0134752
+Plant	Leucoagaricus sp. WM170124-07	Inhibition	10.1128/mbio.02146-20
+Enterobacter sp.	Ant	Detoxification mutualism	10.1128/mbio.02146-20
+Klebsiella sp.	Ant	Detoxification mutualism	10.1128/mbio.02146-20
+Bacillus sp.	Ant	Detoxification mutualism	10.1128/mbio.02146-20
+Pseudomonas sp.	Ant	Detoxification mutualism	10.1128/mbio.02146-20
+Burkholderia sp.	Ant	Detoxification mutualism	10.1128/mbio.02146-20
+Pseudomonas sp.	Ant	Detoxification mutualism	10.1128/mbio.02146-20
+Escovopsioides nivea	Myrmecopterula nudihortorum	Antagonism	10.1016/j.funeco.2022.101140
+Escovopsioides nivea	Myrmecopterula velohortorum	Antagonism	10.1016/j.funeco.2022.101140
+Luteomyces trichodermoides	Mycocepurus goeldii	Antagonism	10.1007/s10482-014-0367-1
