@@ -1,6 +1,9 @@
 # minicurso_genetica2026
 
+## Redes
 
+- `dados/rede_1`: Levantamento geral de associações observadas em jardins de formigas cultivadoras de fungos (rede 1)
+- `dados/rede_2`: Dados de observação de parasitismo em Atta laevigata, relatados por Souza et al (2021)
 
 
 # Referências
