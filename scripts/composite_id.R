@@ -3,7 +3,7 @@
 
 library(tidyverse)
 
-raw <- read_tsv("souza_et_al_2021.tsv", show_col_types = FALSE) %>%
+raw <- read_tsv("dados/rede_2/souza_et_al_2021.tsv", show_col_types = FALSE) %>%
   rename_with(str_trim)          # the header " N_erthali" has a leading space
 
 parasite_cols <- c("A_attophilus", "A_vicosae", "N_erthali", "M_grandicornis")
